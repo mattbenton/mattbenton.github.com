@@ -7,6 +7,8 @@ I work at small startup called Fanplayr in the Bay Area. We're an ecommerce plat
 
 Recently I've been prototyping a mobile version of our third party offer widget.
 
+Cool
+
 ### Zoom Ratio
 
 The zoom ratio of devices in portrait orientation is calculated as:
