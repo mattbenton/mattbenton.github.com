@@ -1,0 +1,1860 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scra",
+				"scrape_show"
+			],
+			[
+				"imdb",
+				"imdb_id"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"ep",
+				"episode"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"met",
+				"method_sym"
+			],
+			[
+				"avai",
+				"availability_zone"
+			],
+			[
+				"cash",
+				"cashcompare"
+			],
+			[
+				"no",
+				"no-reply"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"load",
+				"load_balancers"
+			],
+			[
+				"elb",
+				"elb_name"
+			],
+			[
+				"confi",
+				"config_file"
+			],
+			[
+				"loa",
+				"load_results"
+			],
+			[
+				"sear",
+				"search_url"
+			],
+			[
+				"conf",
+				"config_file"
+			],
+			[
+				"cas",
+				"cashcompare"
+			],
+			[
+				"auth",
+				"authorize_instance_with_rds"
+			],
+			[
+				"pri",
+				"private_ip"
+			],
+			[
+				"ip",
+				"ip_address"
+			],
+			[
+				"sec",
+				"security_group"
+			],
+			[
+				"fan",
+				"fanplayrdev"
+			],
+			[
+				"aws",
+				"aws_credentials"
+			],
+			[
+				"inst",
+				"instances"
+			],
+			[
+				"opswo",
+				"opsworks-json-data2"
+			],
+			[
+				"reg",
+				"region_name"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"USER_T",
+				"USER_TYPE_HAS_COLLECTED : String"
+			],
+			[
+				"offer",
+				"offerDelay"
+			],
+			[
+				"offe",
+				"offerDelay"
+			],
+			[
+				"off",
+				"offerDelay"
+			],
+			[
+				"coo",
+				"cookbooks_dir"
+			],
+			[
+				"instance",
+				"instance_id"
+			],
+			[
+				"Gen",
+				"GeniusSession [class]"
+			],
+			[
+				"incent",
+				"incentiveCount"
+			],
+			[
+				"ince",
+				"incentive"
+			],
+			[
+				"remove",
+				"removedCount"
+			],
+			[
+				"isD",
+				"isDisabled : Bool"
+			],
+			[
+				"Genius",
+				"GeniusCampaign [class]"
+			],
+			[
+				"over",
+				"overrideIncentiveId"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"serial",
+				"serialize"
+			],
+			[
+				"display",
+				"display_text"
+			],
+			[
+				"last",
+				"lastIncentiveId : Int"
+			],
+			[
+				"se",
+				"sessionKey : String"
+			],
+			[
+				"has",
+				"hasSeenOfferId"
+			],
+			[
+				"cp",
+				"cpu_usage"
+			],
+			[
+				"ha",
+				"headers"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"par",
+				"patch_revision"
+			],
+			[
+				"patch",
+				"patch_revision"
+			],
+			[
+				"build",
+				"build_revision"
+			],
+			[
+				"bui",
+				"build_revision"
+			],
+			[
+				"revis",
+				"revision_regex"
+			],
+			[
+				"docu",
+				"document_root"
+			],
+			[
+				"tog",
+				"toggleOpen"
+			],
+			[
+				"co",
+				"collectedDuringSession : Bool"
+			],
+			[
+				"fD",
+				"fDisplayText"
+			],
+			[
+				"fDis",
+				"fDisplayTextCb"
+			],
+			[
+				"fVa",
+				"fValueSuffix"
+			],
+			[
+				"update",
+				"updateDisplayText"
+			],
+			[
+				"fVal",
+				"fValuePrefix"
+			],
+			[
+				"val",
+				"valueSymbol"
+			],
+			[
+				"pat",
+				"patch_url"
+			],
+			[
+				"all",
+				"all_account_ids"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"CA",
+				"CANADA_TERRITORIES"
+			],
+			[
+				"RULE_RE",
+				"RULE_REGION_TERRITORIES [var]"
+			],
+			[
+				"re",
+				"regionCode : String"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"RULERE",
+				"RULE_REGION_TERRITORIES [var]"
+			],
+			[
+				"va",
+				"value1 : Dynamic"
+			],
+			[
+				"RULE_REG",
+				"RULE_REGION_CONTINENTAL [var]"
+			],
+			[
+				"vale",
+				"value2 : Dynamic"
+			],
+			[
+				"onSEl",
+				"onSelectCountry"
+			],
+			[
+				"data",
+				"database_file"
+			],
+			[
+				"File",
+				"FileSystem [class]"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"get",
+				"getLocaleWithDefault(...) : Localization"
+			],
+			[
+				"getpa",
+				"getParamWithDefault(...) : T"
+			],
+			[
+				"defa",
+				"defaultValue"
+			],
+			[
+				"tem",
+				"templatePath [var]"
+			],
+			[
+				"Fil",
+				"FileSystem"
+			],
+			[
+				"getRew",
+				"getRewardExpiry"
+			],
+			[
+				"month",
+				"monthLong"
+			],
+			[
+				"for",
+				"formatter"
+			],
+			[
+				"date",
+				"Date"
+			],
+			[
+				"i",
+				"i18n [package]"
+			],
+			[
+				"OP",
+				"OP_NOT_EQUALS [var]"
+			],
+			[
+				"new",
+				"new_build_name"
+			],
+			[
+				"www_cur",
+				"www_current_abs"
+			],
+			[
+				"patc",
+				"patch_key"
+			],
+			[
+				"ins",
+				"instance_config"
+			],
+			[
+				"insta",
+				"instance_file"
+			],
+			[
+				"man",
+				"manifest_file"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"latest",
+				"latest_key"
+			],
+			[
+				"std",
+				"stderr"
+			],
+			[
+				"mani",
+				"manifest_data"
+			],
+			[
+				"create",
+				"create_file"
+			],
+			[
+				"pa",
+				"patch_key"
+			],
+			[
+				"fp",
+				"fpUser"
+			],
+			[
+				"Fp",
+				"FpApiDefs [class]"
+			],
+			[
+				"is",
+				"isSegmentSearchTermInGroup(...) : Bool"
+			],
+			[
+				"ab-m",
+				"ab-message"
+			],
+			[
+				"getC",
+				"getClientIP() : String"
+			],
+			[
+				"prof",
+				"profiler-bar"
+			],
+			[
+				"profi",
+				"profiler-bar"
+			],
+			[
+				"bar",
+				"barsHtml"
+			],
+			[
+				"seg",
+				"segment"
+			],
+			[
+				"tot",
+				"totalLength"
+			],
+			[
+				"tota",
+				"totalTime"
+			],
+			[
+				"max",
+				"maxEndTime"
+			],
+			[
+				"segm",
+				"segment"
+			],
+			[
+				"Prof",
+				"ProfilerSegment [class]"
+			],
+			[
+				"acc",
+				"accumulatedHash [var]"
+			],
+			[
+				"Ac",
+				"AccumulateMarks [class]"
+			],
+			[
+				"Acc",
+				"AccumulateMark [class]"
+			],
+			[
+				"dbName",
+				"dbNameAnalytics : String"
+			],
+			[
+				"dbNa",
+				"dbNameIpData [var]"
+			],
+			[
+				"dbPa",
+				"dbParamsWrite [var]"
+			],
+			[
+				"dbP",
+				"dbParamsWrite : poko.system.DbSettings"
+			],
+			[
+				"conn",
+				"connectWithSettings(...) : Void"
+			],
+			[
+				"parse",
+				"parseInt( x : String ) : Null<Int>"
+			],
+			[
+				"key",
+				"patch_key"
+			],
+			[
+				"prog",
+				"progress_bar"
+			],
+			[
+				"byt",
+				"bytes_written"
+			],
+			[
+				"deploy",
+				"deploy_bucket"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 227,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"ss yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"ss java",
+				"Set Syntax: Java"
+			],
+			[
+				"ss rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ss json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ind spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"js",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ss ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ss jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss r",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ss js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ss p",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ss rb",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ss sca",
+				"Set Syntax: Scala"
+			],
+			[
+				"ss htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"ss ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"forma",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"ss ba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ss bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ss ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"f",
+				"Format: Javascript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"Snippet: ",
+				"Snippet: animate"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"ali",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"hxm",
+				"Set Syntax: Hxml"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"cta",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"ctag",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"node",
+				"Snippet: Snippet: NodeJS EventEmitter"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/matt/github/matt.gs/css/global.css",
+		"/Users/matt/thepiratebay.rb",
+		"/Users/matt/dev/expens.us/expensus-2013-03-30.sql",
+		"/Users/matt/.thepiratebay/results.yaml",
+		"/Users/matt/thepiratebay.yaml",
+		"/Users/matt/github/matt.gs/global.css",
+		"/Users/matt/github/matt.gs/matt.gs.sublime-project",
+		"/Users/matt/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/matt/github/matt.gs/index.html",
+		"/Users/matt/.dotfiles/connect/default.rb",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/aws/providers/elastic_lb.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/aws/libraries/ec2.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/aws/resources/elastic_ip.rb",
+		"/Users/matt/work/fanplayr/chef-repo/opsworks_json_data.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/php-app/recipes/aws-sdk.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/php-app/recipes/deploy.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/matt/metadata.rb",
+		"/Users/matt/work/fanplayr/chef-repo/right.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/php-app/metadata.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/matt/providers/matt_test.rb",
+		"/Users/matt/github/aws-cloudfront-ruby/test.rb",
+		"/Volumes/Data/temp/2013-03-29-r2209/widgets/genius/builds/2013-03-29-r2209/js/embed-ck.js",
+		"/Users/matt/work/fanplayr/product/build-tool/scripts/deploy-genius.rb",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/builds/2013-03-29-r2209/js/embed-ck.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/builds/2013-03-29-r2209/js/custom/globalshopex.com-ck.js",
+		"/Users/matt/work/fanplayr/product/build-tool/build.xml",
+		"/Users/matt/work/fanplayr/scripts/manifest.yml",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/builds/2013-03-29-r2209/app.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/app.php",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/aws/recipes/default.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/php-app/definitions/elb_register_instance.rb",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/external/PrintEmail.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/social-sales/builds/2013-03-25-r2177/widget.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/social-sales/source/libs/fanplayr-widget.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/api/FpBaseApi.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/inc/settings.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/external/AppApi.hx",
+		"/Users/matt/Downloads/136fdb1e-dad2-4195-931f-99b62e8a96e4",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/inc/settings.local.php",
+		"/Users/matt/work/fanplayr/scripts/email_test.rb",
+		"/Users/matt/work/fanplayr/scripts/rajiv.java",
+		"/Users/matt/work/fanplayr/.profile",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/core/Settings.hx",
+		"/Users/matt/work/fanplayr/scripts/email.java",
+		"/Users/matt/work/fanplayr/scripts/check-status.rb",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/api/FpAnalyticsDbUtility.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/social-sales/source/index.html",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/social-sales/source/main.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/social-sales/source/lang/compiled/ja.compiled.json",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/social-sales/source/index.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/apps/social-sales/make/less-helper.js",
+		"/Users/matt/work/fanplayr/scripts/patch.thor",
+		"/Users/matt/work/fanplayr/ec2-instance/setup/system-files/etc/httpd/conf/httpd.conf",
+		"/Users/matt/Library/Caches/Cleanup At Startup/Transmit/D53D6555-372F-4F4A-87B1-8DE9C10842D3/test-base.php",
+		"/Users/matt/Library/Caches/Cleanup At Startup/Transmit/3915F22C-49BF-4054-A331-A9B9A8DC915D/status.php",
+		"/Users/matt/Desktop/thepiratebay.yaml",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/php-app/templates/default/instance.settings.php.erb",
+		"/Users/matt/work/fanplayr/chef-repo/vagrant.json",
+		"/Users/matt/work/fanplayr/chef-repo/Vagrantfile",
+		"/Users/matt/work/fanplayr/ec2-instance/scripts/rds-update-db-security-group.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/php-app/templates/default/rds_credentials.erb",
+		"/Users/matt/work/fanplayr/ec2-instance/config/rds-credentials.sh",
+		"/Users/matt/Desktop/opsworks.json",
+		"/Users/matt/work/fanplayr/opsworkstest-cookbooks/app/recipes/php.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/php-app/recipes/configure.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/php-app/README.md",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/js/embed.js",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/js/embed-ck.js",
+		"/Users/matt/work/fanplayr/chef-repo/cookbooks/aliases/metadata.rb",
+		"/Users/matt/Library/Caches/Cleanup At Startup/Transmit/DA212DDE-8E2A-434D-AAB4-920EAA50497D/status.php",
+		"/Users/matt/Library/Caches/Cleanup At Startup/Transmit/E09474DC-17DD-4EFB-B6BA-C15803C4E9CB/settings.php",
+		"/Users/matt/.dotfiles/connect/opsworks.rb",
+		"/Users/matt/work/fanplayr/chef-repo/cookbooks/apache2/attributes/default.rb",
+		"/Users/matt/work/fanplayr/vagrant/Vagrantfile",
+		"/Users/matt/work/fanplayr/check-status.rb",
+		"/Users/matt/work/fanplayr/ec2-instance/scripts/update-instance-settings.rb",
+		"/Users/matt/work/fanplayr/opsworks/cookbooks/php-app/templates/default/instance_settings.php.erb",
+		"/Users/matt/dev/opsworks-cookbooks-master/apache2/definitions/apache_site.rb",
+		"/Users/matt/work/fanplayr/ec2-instance/config/common.sh",
+		"/Users/matt/work/fanplayr/ec2-instance/config/instance.settings.php",
+		"/Users/matt/dev/opsworks-cookbooks-master/php/templates/default/opsworks.php.erb",
+		"/Users/matt/work/fanplayr/chef-repo/cookbooks/apache2/definitions/apache_module.rb",
+		"/Users/matt/Library/Caches/Cleanup At Startup/Transmit/DAB3B461-0A31-4CD7-80E7-AA876959E503/test-base.php",
+		"/Users/matt/Library/Caches/Cleanup At Startup/Transmit/4C7286E1-9EA5-468C-A3E0-7A2526271528/test-base.php",
+		"/Users/matt/Library/Caches/Cleanup At Startup/Transmit/BEB49B09-6BBF-474A-BD90-C53C017284A7/status.php",
+		"/Users/matt/work/fanplayr/ec2-instance/setup/tests/test-base.php",
+		"/Users/matt/Library/Caches/Cleanup At Startup/Transmit/160E91C6-265C-46F9-8725-5A8780F08230/status.php",
+		"/Users/matt/work/fanplayr/ec2-instance/public-www/status.php",
+		"/Users/matt/Library/Caches/Cleanup At Startup/Transmit/368EA60B-4C97-455F-A2FC-FFABC974E240/settings.widget.php",
+		"/Users/matt/Library/Caches/Cleanup At Startup/Transmit/FE4E415E-E778-4F00-A650-2C206D82E016/settings.php",
+		"/Users/matt/Desktop/lukehimself.net-2013-03-28.sql",
+		"/Users/matt/work/fanplayr/chef-repo/.vagrant/Vagrantfile",
+		"/Applications/Vagrant/embedded/gems/gems/vagrant-1.1.4/templates/commands/init/Vagrantfile.erb",
+		"/Users/matt/work/fanplayr/chef-repo/cookbooks/aliases/recipes/default.rb",
+		"/Users/matt/work/fanplayr/chef-repo/cookbooks/networking_basic/recipes/default.rb",
+		"/Users/matt/work/fanplayr/chef-repo/cookbooks/apache2/definitions/apache_site.rb",
+		"/Users/matt/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/Users/matt/work/fanplayr/chef-repo-master/cookbooks/setup/recipes/default.rb",
+		"/Users/matt/work/fanplayr/chef-repo-master/cookbooks/setup/metadata.rb",
+		"/Users/matt/work/fanplayr/chef-repo-master/cookbooks/apt/recipes/default.rb",
+		"/Users/matt/work/fanplayr/chef-repo-master/cookbooks/setup/recipes/php.rb",
+		"/Users/matt/work/fanplayr/chef-repo-master/cookbooks/setup/recipes/memcache.rb",
+		"/Users/matt/work/fanplayr/chef-repo-master/cookbooks/redis/recipes/default.rb",
+		"/Users/matt/work/fanplayr/chef-repo-master/cookbooks/redis/attributes/default.rb",
+		"/Users/matt/work/fanplayr/chef-repo-master/cookbooks/apt/metadata.rb",
+		"/Users/matt/work/fanplayr/vagrant/Vagrantfile_precise64",
+		"/Users/matt/work/fanplayr/chef-repo-master/cookbooks/setup/recipes/pear.rb",
+		"/Users/matt/work/fanplayr/chef-repo-master/cookbooks/setup/recipes/gcc.rb",
+		"/Users/matt/work/fanplayr/chef-repo-master/cookbooks/setup/recipes/make.rb",
+		"/Users/matt/Desktop/logredemption-patch.sh",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/lib/site/api/LogRedemption.class.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/less/genius-segmentation.less",
+		"/Users/matt/work/fanplayr/product/trunk/site/www/tpl/dashboard/genius/segments/segment-editor.php",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/objects/SegmentRuleset.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/api/FpDbUtility.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/api/FpCacheUtility.hx",
+		"/Users/matt/work/fanplayr/ec2-instance/keys/ssl/AddTrustExternalCARoot.crt",
+		"/Users/matt/work/fanplayr/ec2-instance/keys/ssl/COMODOHigh-AssuranceSecureServerCA.crt",
+		"/Users/matt/work/fanplayr/ec2-instance/keys/ssl/STAR_fanplayr_com.crt",
+		"/Users/matt/work/fanplayr/ec2-instance/keys/ssl/server.key",
+		"/Users/matt/work/fanplayr/ec2-instance/keys/ssl/server.csr",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/objects/SegmentContext.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/objects/GeniusSession.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/dashboard/genius/Segmentation.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/external/Genius.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/site/dashboard/account/Transactions.hx",
+		"/Users/matt/work/fanplayr/product/trunk/site/src/fp/data/api/FpGeniusApi.hx"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/matt/work/fanplayr/opsworks/cookbooks/aws",
+			"",
+			"*.php",
+			"",
+			"/Users/matt/dev/opsworks-cookbooks-master",
+			"",
+			"/Users/matt/work/fanplayr/ec2-instance/setup/system-files",
+			"",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/social-sales/source/",
+			"",
+			"*.hx",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/less",
+			"",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/less",
+			"",
+			"*.hx",
+			"",
+			"/Users/matt/dev/htdocs/lemonstand",
+			"*.less",
+			"",
+			"*.php",
+			"",
+			"/Volumes/Data/temp/Fanplayr-1.0.14",
+			"",
+			"*.js",
+			"",
+			"*.hx",
+			"",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius",
+			"",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius",
+			"*.less",
+			".*poko*.hx",
+			"*.hx",
+			".hx",
+			"",
+			"accountApi.getAccountById({id: 0, accountId: shopLink.accountId, onBehalfOfAccountId: shopLink.accountId }, shopLink.accountId);",
+			"",
+			"*.hx",
+			"",
+			"/Users/matt/work/fanplayr/sales-kit",
+			"",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/less",
+			"",
+			"*.hx",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/source",
+			"/Users/matt/Downloads/prestashop",
+			"*.js",
+			"*.hx",
+			"/Users/matt/work/fanplayr/product/trunk/site/www/widgets/genius/source/less",
+			"*.php",
+			"*.js",
+			"",
+			"/Users/matt/work/fanplayr/website/trunk/resources",
+			"/Users/matt/work/fanplayr/website/v2/wordpress",
+			"*.scss",
+			"/Users/matt/work/fanplayr/website/v2/wordpress",
+			"",
+			"*.php",
+			"",
+			"*.less",
+			"",
+			"*.js",
+			"",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/build",
+			"",
+			"./",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/www",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/www",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src/*.less",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src",
+			"/usr/local/lib/node_modules/less",
+			"/Users/matt/Sites/Fanplayr/fanplayr_svn/site/src/less/lessjs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tt1826940",
+			"'",
+			"text",
+			"name",
+			"airdate",
+			"uri",
+			"234",
+			"season",
+			"test",
+			"red",
+			"888",
+			"ccc",
+			"333",
+			"'",
+			"normal",
+			"verdana",
+			"div",
+			"h1",
+			"matt",
+			"adfsfddf",
+			"name",
+			"aws_elastic",
+			"opscode",
+			"cookbooks",
+			"Opscode",
+			"builds",
+			"dir",
+			"widgets",
+			"css",
+			"builds/2013-03-29-r2209/builds/2013-03-29-r2209/",
+			"builds",
+			"css",
+			"builds",
+			"deploy-gen",
+			"aws_instance_id",
+			"key",
+			"app",
+			"fanplayr",
+			"aws_credentials",
+			"right_aws",
+			"key",
+			"aws_secret_access_key",
+			"aws_access_key_id",
+			"TestCredentials",
+			"18WM307H00WT514HKB02",
+			"AKIAI5G5LP4UJ3R4GHNQ",
+			"18WM307H00WT514HKB02",
+			"AKIAI5G5LP4UJ3R4GHNQ",
+			"cashcompare",
+			"right_aws",
+			"text",
+			"helloworld",
+			"これはテストで",
+			"encode",
+			"str",
+			"encode",
+			"Matt",
+			"matt",
+			":",
+			"=>",
+			"YOUR_SECRET_ACCESS_KEY",
+			"YOUR_ACCESS_KEY_ID",
+			"pony",
+			"password",
+			"user",
+			"example",
+			"you",
+			"global",
+			"separatorOr",
+			".compiled.json",
+			"coupondata",
+			"promocode",
+			"awspromocode",
+			"elb_register_instance",
+			"elb_name",
+			"node",
+			"fanplayr",
+			"EC2",
+			"ls",
+			"dev",
+			"libxslt",
+			"deploy",
+			"options",
+			"results",
+			"file",
+			"loading",
+			"load",
+			"Loading",
+			"Community",
+			"Castle",
+			"open",
+			"results",
+			"update",
+			"open",
+			"update",
+			"Loading",
+			"load",
+			"config_file",
+			"file",
+			"config",
+			"loading",
+			"config",
+			"puts",
+			"nothing",
+			"get_seach_uri",
+			"get_next_sequence",
+			"error",
+			"node",
+			"escape",
+			"thor",
+			"show",
+			"node",
+			"say_status",
+			"config",
+			"archer",
+			"yaml",
+			"value",
+			"attributes",
+			"inspect",
+			"puts",
+			"methods",
+			"to_s",
+			"\\s",
+			"ed ",
+			" ",
+			"else",
+			"puts \"",
+			"+"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"else",
+			"\",\\n",
+			":$1 =>",
+			":$1",
+			"'$1',",
+			"$1",
+			"\"$1\" => \"$2\",",
+			"(null, 2, '$1'),",
+			"",
+			"(null, 1, '$1'),",
+			"(null, 1, '$1'),\\n",
+			",\\n",
+			"(null, 1, '$1')",
+			"(null, 1, $1)",
+			"",
+			"$1\\n",
+			"",
+			"\\n$1",
+			"site.fanplayr",
+			"prod.fanplayr.com",
+			"$1\\n$2\\n\\n",
+			"",
+			"$1",
+			"",
+			"'",
+			"</p><br/>",
+			"stage.fanplayr.com",
+			"sendForm_G(",
+			"displayCoupon_n(",
+			"jqueryEasing_w(",
+			"rememberCoupons_o(",
+			"setCouponData_x(",
+			"getCouponData_u(",
+			"restoreCoupons_r(",
+			"injectNewIframe_b(",
+			"console_c(",
+			"newCoupon_k(",
+			"bmProcessQ_m(",
+			"newCoupon_k(",
+			"injectNewIframe_b(",
+			"console_c(",
+			"console_c",
+			"scale($1 + @tada-scale)",
+			"scale($2 + @tada-scale)",
+			"scale($1 + @tada-scale)",
+			"",
+			"80efa5adac62ef11e1f09800d5f9795b",
+			"accountApi.getAccountById({id: 0, accountId: shopLink.accountId, onBehalfOfAccountId: shopLink.accountId }, shopLink.accountId);",
+			"",
+			"$",
+			"_hx_anonymous",
+			"'value' =>",
+			")),",
+			"_hx_anonymous(array(",
+			"'value'",
+			"$1: \"$2\"",
+			"",
+			"$1:\\t\\t\"$2\"",
+			"#$1",
+			"{$1}",
+			"gameSpinner",
+			"gameMystery",
+			"$1:",
+			"\"$1\":",
+			"baseUrl",
+			"fbHostPageId",
+			"\", \"",
+			"\"$1\"",
+			"\"\\1\"",
+			"\"$1\"",
+			", ",
+			"\\n",
+			"guid",
+			"mage_cookie",
+			"/var/log/httpd/",
+			"console.log",
+			"fatal",
+			"trimAppDir",
+			"minJsFile",
+			"sourceDir",
+			"indexFile",
+			"console.log",
+			"console.error",
+			": ",
+			"console.log",
+			"console.error",
+			"console.log",
+			"sourceDir",
+			"buildDir",
+			"sourceDir",
+			"baseDir",
+			".left",
+			".right",
+			"this.",
+			"cli.",
+			"\\tmatt.",
+			"matt."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "matt.gs.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"settings",
+				"site/src/site/core/Settings.hx"
+			],
+			[
+				"fpana",
+				"site/src/fp/data/api/FpAnalyticsDbUtility.hx"
+			],
+			[
+				"setl",
+				"site/www/inc/settings.local.php"
+			],
+			[
+				"sett",
+				"site/www/inc/settings.php"
+			],
+			[
+				"socialsalesind",
+				"site/www/apps/social-sales/source/index.php"
+			],
+			[
+				"social-sales",
+				"site/www/apps/social-sales/make/less-helper.js"
+			],
+			[
+				"compi",
+				"site/www/widgets/social-sales/source/lang/compiled/ja.compiled.json"
+			],
+			[
+				"fpba",
+				"site/src/fp/data/api/FpBaseApi.hx"
+			],
+			[
+				"appa",
+				"site/src/site/external/AppApi.hx"
+			],
+			[
+				"settin",
+				"site/www/inc/settings.php"
+			],
+			[
+				"print",
+				"site/src/site/external/PrintEmail.hx"
+			],
+			[
+				"rds",
+				"ec2-instance/scripts/rds-update-db-security-group.rb"
+			],
+			[
+				"vag",
+				"chef-repo/Vagrantfile"
+			],
+			[
+				"appphp.rb",
+				"opsworkstest-cookbooks/app/recipes/php.rb"
+			],
+			[
+				"phpappde",
+				"opsworks/cookbooks/php-app/recipes/deploy.rb"
+			],
+			[
+				"phpappconfig",
+				"opsworks/cookbooks/php-app/recipes/configure.rb"
+			],
+			[
+				"definitions",
+				"opsworks-cookbooks-master/apache2/definitions/apache_site.rb"
+			],
+			[
+				"embed",
+				"site/www/widgets/genius/js/embed.js"
+			],
+			[
+				"embed-ck",
+				"site/www/widgets/genius/js/embed-ck.js"
+			],
+			[
+				"memca",
+				"chef-repo-master/cookbooks/setup/recipes/memcache.rb"
+			],
+			[
+				"logre",
+				"site/www/lib/site/api/LogRedemption.class.php"
+			],
+			[
+				"fpca",
+				"site/src/fp/data/api/FpCacheUtility.hx"
+			],
+			[
+				"fpdb",
+				"site/src/fp/data/api/FpDbUtility.hx"
+			],
+			[
+				"em",
+				"site/www/widgets/genius/js/embed.js"
+			],
+			[
+				"gense",
+				"site/src/fp/data/objects/GeniusSession.hx"
+			],
+			[
+				"segcon",
+				"site/src/fp/data/objects/SegmentContext.hx"
+			],
+			[
+				"segmru",
+				"site/src/fp/data/objects/SegmentRuleset.hx"
+			],
+			[
+				"settloc",
+				"site/www/inc/settings.local.php"
+			],
+			[
+				"emb",
+				"site/www/widgets/genius/js/embed.js"
+			],
+			[
+				"segment.hx",
+				"site/src/fp/data/objects/Segment.hx"
+			],
+			[
+				"fpgen",
+				"site/src/fp/data/api/FpGeniusApi.hx"
+			],
+			[
+				"extgen",
+				"site/src/site/external/Genius.hx"
+			],
+			[
+				"segmentation",
+				"site/src/site/dashboard/genius/Segmentation.hx"
+			],
+			[
+				"segmenless",
+				"site/src/less/genius-segmentation.less"
+			],
+			[
+				"seged",
+				"site/www/tpl/dashboard/genius/segments/segment-editor.php"
+			],
+			[
+				"transa",
+				"site/www/tpl/dashboard/account/Transactions.php"
+			],
+			[
+				"salesor",
+				"site/src/fp/data/objects/SalesOrder.hx"
+			],
+			[
+				"trans",
+				"site/src/site/dashboard/account/Transactions.hx"
+			],
+			[
+				"settingloca",
+				"site/www/inc/settings.local.php"
+			],
+			[
+				"fpge",
+				"site/src/fp/data/plugins/FpGeniusAlgorithm.hx"
+			],
+			[
+				"coued",
+				"site/www/tpl/dashboard/genius/CouponEditor.php"
+			],
+			[
+				"local",
+				"site/www/inc/settings.local.php"
+			],
+			[
+				"fpgeal",
+				"site/src/fp/data/plugins/FpGeniusAlgorithm.hx"
+			],
+			[
+				"inc",
+				"site/src/fp/data/objects/Incentive.hx"
+			],
+			[
+				"app.js",
+				"site/www/widgets/genius/js/app.js"
+			],
+			[
+				"fpgeniusalgorithm",
+				"site/www/lib/fp/data/plugins/FpGeniusAlgorithm.class.php"
+			],
+			[
+				"incen",
+				"site/src/fp/data/objects/Incentive.hx"
+			],
+			[
+				"extegen",
+				"site/src/site/external/Genius.hx"
+			],
+			[
+				"fpap",
+				"site/src/fp/data/api/FpApiDefs.hx"
+			],
+			[
+				"util",
+				"site/www/widgets/common/js/utils.js"
+			],
+			[
+				"fp",
+				"site/src/fp/data/api/FpAnalyticsDbUtility.hx"
+			],
+			[
+				"status",
+				"ec2-instance/public-www/status.php"
+			],
+			[
+				"segru",
+				"site/src/fp/data/objects/SegmentRuleset.hx"
+			],
+			[
+				"db.hx",
+				"site/src/poko/system/Db.hx"
+			],
+			[
+				"embed.js",
+				"site/www/widgets/genius/js/embed.js"
+			],
+			[
+				"setting",
+				"site/www/inc/settings.php"
+			],
+			[
+				"settings.cla",
+				"site/www/lib/site/core/Settings.class.php"
+			],
+			[
+				"test-ba",
+				"ec2-instance/setup/tests/test-base.php"
+			],
+			[
+				"testbase",
+				"ec2-instance/setup/tests/test-base.php"
+			],
+			[
+				"http",
+				"site/src/site/core/utils/Http.hx"
+			],
+			[
+				"geoi",
+				"site/www/services/geoip/geoip.php"
+			],
+			[
+				"recover",
+				"ec2-instance/scripts/recover-restart.rb"
+			],
+			[
+				"couponed",
+				"site/www/tpl/dashboard/genius/CouponEditor.php"
+			],
+			[
+				"option",
+				"site/www/tpl/dashboard/genius/Options.php"
+			],
+			[
+				"recov",
+				"ec2-instance/scripts/recover-restart.rb"
+			],
+			[
+				"updatebu",
+				"ec2-instance/scripts/update-build.rb"
+			],
+			[
+				"appap",
+				"site/src/site/external/AppApi.hx"
+			],
+			[
+				"segrulese",
+				"site/src/fp/data/objects/SegmentRuleset.hx"
+			],
+			[
+				"segmen",
+				"site/src/fp/data/objects/SegmentContext.hx"
+			],
+			[
+				"fpgena",
+				"site/src/fp/data/plugins/FpGeniusAlgorithm.hx"
+			],
+			[
+				"gensess",
+				"site/src/fp/data/objects/GeniusSession.hx"
+			],
+			[
+				"geo",
+				"site/www/services/geoip/geoip.php"
+			],
+			[
+				"segmentcon",
+				"site/src/fp/data/objects/SegmentContext.hx"
+			],
+			[
+				"apput",
+				"site/src/apps/AppUtils.hx"
+			],
+			[
+				"couonlis",
+				"site/www/tpl/dashboard/genius/CouponList.php"
+			],
+			[
+				"coupons.hx",
+				"site/src/site/dashboard/genius/Coupons.hx"
+			],
+			[
+				"coupons",
+				"site/www/tpl/dashboard/genius/Coupons.php"
+			],
+			[
+				"geoip",
+				"ec2-instance/data/GeoIPRegion.dat"
+			],
+			[
+				"joinlink",
+				"site/src/site/dashboard/link/JoinLink.hx"
+			],
+			[
+				"setloc",
+				"site/www/inc/settings.local.php"
+			],
+			[
+				"couned",
+				"site/www/tpl/dashboard/genius/CouponEditor.php"
+			],
+			[
+				"start",
+				"ec2-instance/scripts/startup.sh"
+			],
+			[
+				"up",
+				"ec2-instance/scripts/update-build.rb"
+			],
+			[
+				"comm",
+				"ec2-instance/config/common.sh"
+			],
+			[
+				"update",
+				"ec2-instance/scripts/update-build.rb"
+			],
+			[
+				"extge",
+				"src/site/external/Genius.hx"
+			],
+			[
+				"options",
+				"src/site/dashboard/genius/Options.hx"
+			],
+			[
+				"campaign.",
+				"src/fp/data/objects/Campaign.hx"
+			],
+			[
+				"op",
+				"www/tpl/dashboard/genius/Options.php"
+			],
+			[
+				"sociaind",
+				"www/widgets/social-sales/source/index.html"
+			],
+			[
+				"segmeless",
+				"src/less/genius-segmentation.less"
+			],
+			[
+				"segex",
+				"src/poko/apis/paypal/expressCheckout/GetExpressCheckoutDetails.hx"
+			],
+			[
+				"reg",
+				"www/inc/regions.php"
+			],
+			[
+				"regio",
+				"www/inc/regions.php"
+			],
+			[
+				"ge",
+				"www/services/geoip/geoip.php"
+			],
+			[
+				"exgen",
+				"src/site/external/Genius.hx"
+			],
+			[
+				"embedjs",
+				"www/widgets/genius/js/embed.js"
+			],
+			[
+				"regions",
+				"www/inc/regions.php"
+			],
+			[
+				"segmencon",
+				"src/fp/data/objects/SegmentContext.hx"
+			],
+			[
+				"segmenru",
+				"src/fp/data/objects/SegmentRuleset.hx"
+			],
+			[
+				"segmen-ed",
+				"www/tpl/dashboard/genius/segments/segment-editor.php"
+			],
+			[
+				"cou",
+				"www/inc/countries.php"
+			],
+			[
+				"ocu",
+				"www/apps/social-sales/make/node_modules/cli-color/node_modules/es5-ext/lib/Object/prototype/_curry_super.js"
+			],
+			[
+				"countr",
+				"www/inc/countries.php"
+			],
+			[
+				"fpdbut",
+				"src/fp/data/api/FpDbUtility.hx"
+			],
+			[
+				"fpcac",
+				"src/fp/data/api/FpCacheUtility.hx"
+			],
+			[
+				"loca",
+				"www/inc/settings.local.php"
+			],
+			[
+				"fpapide",
+				"src/fp/data/api/FpApiDefs.hx"
+			],
+			[
+				"matt",
+				"src/site/test/Matt.hx"
+			],
+			[
+				"fpbase",
+				"www/lib/fp/data/api/FpBaseApi.class.php"
+			],
+			[
+				"region",
+				"www/services/geoip/sample_region.php"
+			],
+			[
+				"fpbas",
+				"src/fp/data/api/FpBaseApi.hx"
+			],
+			[
+				"temtest",
+				"www/temp/test.php"
+			],
+			[
+				"setloca",
+				"www/inc/settings.local.php"
+			],
+			[
+				"settinlo",
+				"www/inc/settings.local.php"
+			],
+			[
+				".ht",
+				"www/.htaccess"
+			],
+			[
+				"s",
+				"www/inc/settings.php"
+			],
+			[
+				"widgemix",
+				"www/widgets/common/less/widget-mixins.less"
+			],
+			[
+				"settlo",
+				"www/inc/settings.local.php"
+			],
+			[
+				"socind",
+				"www/widgets/social-sales/source/index.html"
+			],
+			[
+				"fan-wid",
+				"www/widgets/social-sales/source/libs/fanplayr-widget.js"
+			],
+			[
+				"renderga",
+				"src/site/external/RenderGamified.hx"
+			],
+			[
+				"socinde",
+				"www/widgets/social-sales/source/index.html"
+			],
+			[
+				"ja",
+				"www/inc/i18n/ja.json"
+			],
+			[
+				"en.",
+				"www/inc/i18n/en.json"
+			],
+			[
+				"ja.j",
+				"www/inc/i18n/ja.json"
+			],
+			[
+				"en.j",
+				"www/inc/i18n/en.json"
+			],
+			[
+				"extlegaph",
+				"www/tpl/external/Legal.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/matt/github/expens.us/Expens.us.sublime-project"
+			],
+			[
+				"mag",
+				"/Volumes/Data/temp/Fanplayr-1.0.14/MagentoFanplayr1.0.14.sublime-project"
+			],
+			[
+				"ne",
+				"/Users/matt/work/newsletter-app/newsletter-app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 593.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
