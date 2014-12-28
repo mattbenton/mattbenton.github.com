@@ -18,17 +18,14 @@ Unscaled | Scaled
 -------- | ------
 <img class="freezeframe" src="/content/2014/12/08/mobile-widgets/unscaled.gif" alt="Unscaled example" /> | <img class="freezeframe" src="/content/2014/12/08/mobile-widgets/scaled.gif" alt="Scaled example" />
 
-### Zoom Ratio
+### Calculating Zoom
 
-The zoom ratio of devices in portrait orientation is calculated as:
+The zoom factor is the ratio of the widths of the layout viewport to the visual viewport. For devices that expose the correct values, this is simply calculated as:
 
 {% highlight javascript %}
-// Zoom ratio
-screen.width / window.innerHeight
-
-// Actual viewport width
-window.innerWidth * zoom
-
-// Actual viewport height
-window.innerHeight * zoom
+document.documentElement.clientWidth / window.innerWidth
 {% endhighlight %}
+
+### Resources
+
+- http://www.quirksmode.org/mobile/viewports2.html
