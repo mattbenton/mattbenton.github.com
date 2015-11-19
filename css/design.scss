@@ -1,0 +1,104 @@
+---
+# Tells Jekyll to render this file
+---
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:300|Cabin:700);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 2000px;
+  margin: 0;
+  padding: 0;
+  background-color: #1e1e1e;
+
+  color: #1e1e1e;
+  font-family: 'Roboto', sans-serif;
+}
+
+.Hero {
+  position: relative;
+  height: 100vh;
+}
+
+.Hero-center {
+  position: relative;
+  color: #fff;
+  font-family: 'Cabin', sans-serif;
+  font-size: 150px;
+  font-weight: 700;
+  line-height: 100vh;
+  text-align: center;
+  animation: 2s ease HeroCenterUp;
+}
+
+@keyframes HeroCenterUp {
+  0% {
+    opacity: 0;
+  }
+  20% {
+    top: 100px;
+    opacity: 0;
+  }
+  100% {
+    top: 0;
+    opacity: 1;
+  }
+}
+
+.Hero-link {
+  position: absolute;
+  z-index: 1;
+  padding: 40px;
+  color: #fff;
+  font-size: 14px;
+  text-decoration: none;
+  transition: color 0.4s ease;
+  animation: 4s ease HeroLinkFadeIn;
+
+  &:hover {
+    color: #4BD44B;
+  }
+}
+
+@keyframes HeroLinkFadeIn {
+  0% {
+    opacity: 0;
+  }
+  30% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+.Hero-name {
+  position: fixed;
+  z-index: 2;
+}
+
+.Hero-work {
+  top: 0;
+  right: 0;
+}
+
+.Hero-contact {
+  bottom: 0;
+  right: 0;
+}
+
+.Hero-about {
+  bottom: 0;
+  left: 0;
+}
+
+.WhoAmI {
+  padding: 85px;
+  font-family: sans-serif;
+  font-size: 93px;
+  font-weight: 600;
+}
