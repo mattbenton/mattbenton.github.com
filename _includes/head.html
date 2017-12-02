@@ -10,4 +10,13 @@
   <link rel="stylesheet" href="{{ "/css/fruity.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <script>
+  (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://a.storff.com/7bf7347212a438270b445755eee716519e5a9fac.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, "script", "storff-js"));
+  </script>
 </head>
